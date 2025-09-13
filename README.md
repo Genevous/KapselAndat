@@ -1,8 +1,40 @@
 # KapselAndat
 Tugas 1
 
-* `git init`: Menginisialisasi repositori Git baru.
-* `git add .`: Menambahkan semua file ke staging area.
-* `git commit -m "Pesan"`: Menyimpan perubahan ke riwayat repositori.
-* `git push`: Mengirim perubahan dari lokal ke GitHub.
+# Panduan Penyelesaian Persamaan Diferensial Biasa
 
+Dokumen ini berisi langkah-langkah untuk menyelesaikan persamaan diferensial biasa (Ordinary Differential Equation - ODE) berbentuk:
+
+$$ \frac{dy}{dx} = f(x, y) $$
+
+## Langkah 1: Klasifikasi Persamaan
+Identifikasi jenis persamaan diferensial (misalnya, variabel terpisah, homogen, eksak, atau linear) untuk menentukan metode penyelesaian yang tepat.
+
+## Langkah 2: Penerapan Metode
+Misalkan kita ingin menyelesaikan persamaan diferensial sederhana $ \frac{dy}{dx} = 2x $.
+
+1.  **Variabel Terpisah:** Pindahkan semua suku $y$ ke satu sisi dan semua suku $x$ ke sisi lain.
+
+    $ dy = 2x \, dx $
+
+2.  **Integrasikan Kedua Sisi:** Ambil integral dari kedua sisi persamaan.
+
+    $ \int dy = \int 2x \, dx $
+
+    $ y = x^2 + C $
+
+    di mana $C$ adalah konstanta integrasi.
+
+## Langkah 3: Menemukan Solusi Khusus (Jika Ada Kondisi Awal)
+Jika diberikan kondisi awal, misalnya $ y(1) = 3 $, substitusikan nilai-nilai tersebut untuk menemukan nilai $C$.
+
+$ 3 = (1)^2 + C $
+
+$ 3 = 1 + C $
+
+$ C = 2 $
+
+Maka, solusi khusus untuk persamaan ini adalah $ y = x^2 + 2 $.
+
+## Referensi
+Untuk informasi lebih lanjut mengenai metode penyelesaian lainnya, silakan merujuk ke [nama buku teks atau sumber online].
