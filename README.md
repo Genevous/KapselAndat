@@ -21,13 +21,13 @@ $$ \frac{dy}{dx} = 2x $$
 
 Pindahkan semua suku $y$ ke satu sisi dan semua suku $x$ ke sisi lain.
 
-$$ dy = 2x \, dx $$
+$$ dy = \2x\ dx $$
 
 ### Integrasikan Kedua Sisi
 
 Ambil integral dari kedua sisi persamaan.
 
-$$ \int dy = \int 2x \, dx $$
+$$ \int dy = \int 2x \ dx $$
 
 $$ y = x^2 + C $$
 
