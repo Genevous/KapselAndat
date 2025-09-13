@@ -3,7 +3,7 @@ Tugas 1
 
 # Panduan Penyelesaian Persamaan Diferensial Biasa
 
-Dokumen ini berisi langkah-langkah untuk menyelesaikan persamaan diferensial biasa (Ordinary Differential Equation - ODE) berbentuk:
+Dokumen ini berisi langkah-langkah untuk menyelesaikan persamaan diferensial biasa berbentuk:
 
 $$ \frac{dy}{dx} = f(x, y) $$
 
@@ -31,11 +31,11 @@ $$ \int dy = \int 2x \ dx $$
 
 $$ y = x^2 + C $$
 
-di mana $C$ adalah konstanta integrasi.
+dimana $C$ adalah konstanta integrasi.
 
-## Langkah 3: Menemukan Solusi Khusus (Jika Ada Kondisi Awal)
+## Langkah 3: Menemukan Solusi Khusus
 
-Jika diberikan kondisi awal, misalnya  $y(0) = 1$ , substitusikan nilai-nilai tersebut untuk menemukan nilai $C$.
+Jika diberikan kondisi awal, misalnya  $y(0) = 1$ , substitusikan nilai-nilai tersebut untuk menemukan nilai $C$, perhatikan
 
 $$ 1 = (0)^2 + C $$
 
@@ -43,6 +43,6 @@ $$ 1 = 0 + C $$
 
 $$ C = 1 .$$
 
-Maka, solusi khusus untuk persamaan ini adalah
+Jadi, solusi khusus untuk persamaan ini adalah
 
 $$y = x^2 + 1 .$$
