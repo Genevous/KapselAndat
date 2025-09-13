@@ -21,7 +21,7 @@ $$ \frac{dy}{dx} = 2x $$
 
 Pindahkan semua suku $y$ ke satu sisi dan semua suku $x$ ke sisi lain.
 
-$$ dy = \int 2x\ dx $$
+$$ dy = 2x\ dx $$
 
 ### Integrasikan Kedua Sisi
 
