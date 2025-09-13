@@ -35,14 +35,14 @@ di mana $C$ adalah konstanta integrasi.
 
 ## Langkah 3: Menemukan Solusi Khusus (Jika Ada Kondisi Awal)
 
-Jika diberikan kondisi awal, misalnya  $y(1) = 3$ , substitusikan nilai-nilai tersebut untuk menemukan nilai $C$.
+Jika diberikan kondisi awal, misalnya  $y(0) = 1$ , substitusikan nilai-nilai tersebut untuk menemukan nilai $C$.
 
-$$ 3 = (1)^2 + C $$
+$$ 1 = (0)^2 + C $$
 
-$$ 3 = 1 + C $$
+$$ 1 = 0 + C $$
 
-$$ C = 2 .$$
+$$ C = 1 .$$
 
 Maka, solusi khusus untuk persamaan ini adalah
 
-$$y = x^2 + 2 .$$
+$$y = x^2 + 1 .$$
