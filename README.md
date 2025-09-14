@@ -1,5 +1,4 @@
-# KapselAndat
-Tugas 1
+# KapselAndat - Tugas 1
 
 # Panduan Penyelesaian Persamaan Diferensial Biasa
 
@@ -9,7 +8,7 @@ $$ \frac{dy}{dx} = f(x, y) $$
 
 ## Langkah 1: Klasifikasi Persamaan
 
-Identifikasi jenis persamaan diferensial (misalnya, variabel terpisah, homogen, eksak, atau linear) untuk menentukan metode penyelesaian yang tepat.
+Identifikasi jenis persamaan diferensial (misalnya, variabel terpisah, eksak, homogen, atau linear) untuk menentukan metode penyelesaian yang tepat.
 
 ## Langkah 2: Penerapan Metode
 
