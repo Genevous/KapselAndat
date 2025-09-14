@@ -1,6 +1,6 @@
 # KapselAndat - Tugas 1
 
-# Panduan Penyelesaian Persamaan Diferensial Biasa
+# Penyelesaian Persamaan Diferensial Biasa
 
 Dokumen ini berisi langkah-langkah untuk menyelesaikan persamaan diferensial biasa berbentuk:
 
