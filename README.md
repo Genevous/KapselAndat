@@ -4,7 +4,7 @@
 
 Dokumen ini berisi langkah-langkah untuk menyelesaikan persamaan diferensial biasa berbentuk:
 
-$$ \frac{dy}{dx} = f(x, y) $$
+$$ \frac{dy}{dx} = f(x, y). $$
 
 ## Langkah 1: Klasifikasi Persamaan
 
@@ -12,29 +12,22 @@ Identifikasi jenis persamaan diferensial (misalnya, variabel terpisah, eksak, ho
 
 ## Langkah 2: Penerapan Metode
 
-Misalkan kita ingin menyelesaikan persamaan diferensial sederhana:
+Misalkan kita ingin menyelesaikan persamaan diferensial sederhana, yaitu
 
-$$ \frac{dy}{dx} = 2x $$
+$$ \frac{dy}{dx} = 2x. $$
 
-### Variabel Terpisah
-
-Pindahkan semua suku $y$ ke satu sisi dan semua suku $x$ ke sisi lain.
-
-$$ dy = 2x\ dx $$
-
-### Integrasikan Kedua Sisi
-
-Ambil integral dari kedua sisi persamaan.
+Pindahkan semua suku $y$ ke satu sisi dan semua suku $x$ ke sisi lain, maka diperoleh
+$$dy = 2x\ dx.$$ Ambil integral dari kedua sisi persamaan, perhatikan bahwa
 
 $$ \int dy = \int 2x \ dx $$
 
-$$ y = x^2 + C $$
+$$ y = x^2 + C, $$
 
-dimana $C$ adalah konstanta integrasi.
+di mana $C$ adalah konstanta integrasi.
 
 ## Langkah 3: Menemukan Solusi Khusus
 
-Jika diberikan kondisi awal, misalnya  $y(0) = 1$ , substitusikan nilai-nilai tersebut untuk menemukan nilai $C$, perhatikan
+Jika diberikan kondisi awal, misalnya  $y(0) = 1$ , substitusikan nilai-nilai tersebut untuk mencari nilai $C$, perhatikan
 
 $$ 1 = (0)^2 + C $$
 
